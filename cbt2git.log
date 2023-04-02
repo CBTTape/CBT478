@@ -1,0 +1,6 @@
+2023-04-03 00:34:17.310716 - Initialized conversion of CBT478
+2023-04-03 00:34:17.340036 - Received CBT.V504.FILE478.PDS from FILE478.XMI 
+2023-04-03 00:34:17.342431 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE478.PDS, moved to PDS/$$$#DATE
+2023-04-03 00:34:17.343404 - Found $RAWSDOC.txt (text/plain) in CBT.V504.FILE478.PDS, moved to PDS/$RAWSDOC
+2023-04-03 00:34:17.344358 - Found @FILE478.txt (text/plain) in CBT.V504.FILE478.PDS, moved to PDS/@FILE478
+2023-04-03 00:34:17.345384 - Found RAWSTAPE.jcl (text/plain) in CBT.V504.FILE478.PDS, moved to PDS/RAWSTAPE
